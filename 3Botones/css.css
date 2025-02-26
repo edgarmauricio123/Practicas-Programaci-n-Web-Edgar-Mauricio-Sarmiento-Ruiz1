@@ -1,0 +1,25 @@
+.boton1{
+background-color: aquamarine;
+color: rgb(16, 16, 16);
+}
+
+.boton2{
+border-radius: 15px;
+background-color: blanchedalmond;
+padding: 10px 20px;
+color: blueviolet;
+text-align: end;
+
+}
+
+.boton3{
+border-radius: 15px;
+background-color: blanchedalmond;
+padding: 10px 20px;
+color: blueviolet;
+text-align: end;
+border: none;
+font-size: 25px;
+font-family: cursive;
+}
+
